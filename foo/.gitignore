@@ -1,0 +1,4 @@
+third_party/jazelle/temp
+bazel-*
+node_modules
+dist-*
