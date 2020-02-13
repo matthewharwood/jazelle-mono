@@ -1,6 +1,6 @@
 import {add} from 'core';
 
-const addOne = (a) => {
+  const addOne = (a) => {
   return add(a, 1);
 };
 

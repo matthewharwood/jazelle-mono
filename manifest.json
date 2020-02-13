@@ -1,3 +1,6 @@
 {
-  "projects": ["core", "foo"]
+  "projects": ["core", "foo"],
+  "versionPolicy": {
+    "lockstep": true
+  }
 }
